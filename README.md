@@ -5,4 +5,4 @@ Copy the contents of the fcp/acp folders to the following path on the WINC Smart
 
 
 ## Windows Event Forwarding Subscription
-A sample subscription XML for Raccine Events is included in (/WEC/Raccine_Subscription.xml)
+A sample subscription XML for Raccine Events is included in [Raccine_Subscription.xml](/WEC/Raccine_Subscription.xml)
