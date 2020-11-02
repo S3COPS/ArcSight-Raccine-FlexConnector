@@ -8,6 +8,8 @@ Copy the contents of the fcp/acp folders to the following path on the WINC Smart
 * <CONNECTOR_LOCATION>/current/user/agent/
 Created on Microfocus Arcsight Framework 8.x
 
+![ArcSight Channel](https://github.com/S3COPS/ArcSight-Raccine-FlexConnector/blob/main/images/arcsight.png)
+
 ## Windows Event Forwarding Subscription
 A sample subscription XML for Raccine Events is included in [Raccine_Subscription.xml](/WEC/Raccine_Subscription.xml)
 
