@@ -1,1 +1,3 @@
-1
+event.deviceEventClassId,set.event.categoryObject,set.event.categoryBehavior,set.event.categoryTechnique,set.event.categoryDeviceGroup,set.event.categorySignificance,set.event.categoryOutcome,set.event.originator
+Raccine:1,/Host/Application,/Communicate,,/IDS/Host,/Success,/Informational,Source
+Raccine:2,/Host/Application/Malware,/Found/Vulnerable,/Ransomware,/IDS/Host,/Attempt,/Compromise,Source
