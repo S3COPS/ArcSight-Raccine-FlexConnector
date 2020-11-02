@@ -1,0 +1,6 @@
+<QueryList>
+  <Query Id="0" Path="Application">
+    <!-- Raccine detected malicious activity .-->
+    <Select Path="Application">*[System[Provider[@Name='Raccine'] and (EventID=2)]]</Select>
+  </Query>
+</QueryList>
